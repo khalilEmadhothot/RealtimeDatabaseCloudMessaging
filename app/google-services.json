@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301363947828",
+    "project_id": "realtimedatabase-832ef",
+    "storage_bucket": "realtimedatabase-832ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301363947828:android:aeefdecd43b4864f9cdd61",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301363947828-et6unb4akgnk8qlc9e7ad0ff0484hpg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5GdSTYxhm26nmCkvuiz3tCjDC1xTyp5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301363947828-et6unb4akgnk8qlc9e7ad0ff0484hpg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
